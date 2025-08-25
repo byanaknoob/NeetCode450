@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/byanaknoob/NeetCode450/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/byanaknoob/NeetCode450/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/byanaknoob/NeetCode450/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/byanaknoob/NeetCode450/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/byanaknoob/NeetCode450/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/byanaknoob/NeetCode450/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/byanaknoob/NeetCode450/tree/master/0347-top-k-frequent-elements) |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/byanaknoob/NeetCode450/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/byanaknoob/NeetCode450/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/byanaknoob/NeetCode450/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/byanaknoob/NeetCode450/tree/master/0347-top-k-frequent-elements) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/byanaknoob/NeetCode450/tree/master/0040-combination-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/byanaknoob/NeetCode450/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
