@@ -84,10 +84,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/byanaknoob/NeetCode450/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/byanaknoob/NeetCode450/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/byanaknoob/NeetCode450/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/byanaknoob/NeetCode450/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -110,4 +112,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/byanaknoob/NeetCode450/tree/master/0075-sort-colors) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/byanaknoob/NeetCode450/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/byanaknoob/NeetCode450/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
