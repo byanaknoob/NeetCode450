@@ -40,6 +40,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/byanaknoob/NeetCode450/tree/master/0010-regular-expression-matching) |
 | [0242-valid-anagram](https://github.com/byanaknoob/NeetCode450/tree/master/0242-valid-anagram) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/byanaknoob/NeetCode450/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/byanaknoob/NeetCode450/tree/master/0883-car-fleet) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/byanaknoob/NeetCode450/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
