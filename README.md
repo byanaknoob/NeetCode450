@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/byanaknoob/NeetCode450/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/byanaknoob/NeetCode450/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/byanaknoob/NeetCode450/tree/master/0883-car-fleet) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/byanaknoob/NeetCode450/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/byanaknoob/NeetCode450/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -139,4 +140,9 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/byanaknoob/NeetCode450/tree/master/0002-add-two-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/byanaknoob/NeetCode450/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/byanaknoob/NeetCode450/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
