@@ -49,6 +49,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/byanaknoob/NeetCode450/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/byanaknoob/NeetCode450/tree/master/0010-regular-expression-matching) |
 ## Divide and Conquer
 |  |
@@ -130,4 +131,12 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/byanaknoob/NeetCode450/tree/master/2271-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/byanaknoob/NeetCode450/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/byanaknoob/NeetCode450/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
