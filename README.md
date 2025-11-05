@@ -52,6 +52,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/byanaknoob/NeetCode450/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/byanaknoob/NeetCode450/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/byanaknoob/NeetCode450/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/byanaknoob/NeetCode450/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/byanaknoob/NeetCode450/tree/master/0050-powx-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/byanaknoob/NeetCode450/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
