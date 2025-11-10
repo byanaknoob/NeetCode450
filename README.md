@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/byanaknoob/NeetCode450/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/byanaknoob/NeetCode450/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/byanaknoob/NeetCode450/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/byanaknoob/NeetCode450/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/byanaknoob/NeetCode450/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/byanaknoob/NeetCode450/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/byanaknoob/NeetCode450/tree/master/0136-single-number) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/byanaknoob/NeetCode450/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/byanaknoob/NeetCode450/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/byanaknoob/NeetCode450/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/byanaknoob/NeetCode450/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/byanaknoob/NeetCode450/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/byanaknoob/NeetCode450/tree/master/0217-contains-duplicate) |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/byanaknoob/NeetCode450/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/byanaknoob/NeetCode450/tree/master/0073-set-matrix-zeroes) |
 ## Union Find
 |  |
 | ------- |
