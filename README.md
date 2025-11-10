@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/byanaknoob/NeetCode450/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/byanaknoob/NeetCode450/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/byanaknoob/NeetCode450/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/byanaknoob/NeetCode450/tree/master/0560-subarray-sum-equals-k) |
 | [0883-car-fleet](https://github.com/byanaknoob/NeetCode450/tree/master/0883-car-fleet) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/byanaknoob/NeetCode450/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/byanaknoob/NeetCode450/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -28,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/byanaknoob/NeetCode450/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/byanaknoob/NeetCode450/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/byanaknoob/NeetCode450/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/byanaknoob/NeetCode450/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/byanaknoob/NeetCode450/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/byanaknoob/NeetCode450/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
