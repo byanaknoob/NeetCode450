@@ -20,6 +20,7 @@
 | [0883-car-fleet](https://github.com/byanaknoob/NeetCode450/tree/master/0883-car-fleet) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/byanaknoob/NeetCode450/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/byanaknoob/NeetCode450/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/byanaknoob/NeetCode450/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0242-valid-anagram](https://github.com/byanaknoob/NeetCode450/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/byanaknoob/NeetCode450/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/byanaknoob/NeetCode450/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/byanaknoob/NeetCode450/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/byanaknoob/NeetCode450/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/byanaknoob/NeetCode450/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/byanaknoob/NeetCode450/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
 |  |
 | ------- |
@@ -149,6 +152,7 @@
 | [0002-add-two-numbers](https://github.com/byanaknoob/NeetCode450/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/byanaknoob/NeetCode450/tree/master/0050-powx-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/byanaknoob/NeetCode450/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/byanaknoob/NeetCode450/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
