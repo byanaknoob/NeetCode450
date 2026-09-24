@@ -21,6 +21,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/byanaknoob/NeetCode450/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/byanaknoob/NeetCode450/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/byanaknoob/NeetCode450/tree/master/3227-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/byanaknoob/NeetCode450/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0050-powx-n](https://github.com/byanaknoob/NeetCode450/tree/master/0050-powx-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/byanaknoob/NeetCode450/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/byanaknoob/NeetCode450/tree/master/3227-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/byanaknoob/NeetCode450/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
 | ------- |
